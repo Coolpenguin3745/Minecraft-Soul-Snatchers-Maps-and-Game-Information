@@ -10,9 +10,11 @@ Each player will go through the Randomizer, they will get a item that will say S
 
 ## Rules
 
-1. Gamertags off
+1. Gamertags off.
 
-2. The game continues until either the Trapped reach the exit or all of them are captured by the Souls. 
+2. The game continues until either the Trapped reach the exit or all of them are captured by the Souls.
+
+3. Soul and Trappers need to be in separate calls. 
 
 # Roles
 
